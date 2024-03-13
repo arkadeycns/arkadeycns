@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arka Dey, currently doing my undergrad from NIT Allahabad 
 - 👀 I’m interested in exploring the world of programming
-- 🌱 I’m currently learning various programming languages including python, java, javascript...
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning various programming languages including python, c++, javascript...
+- 💞️ I’m looking to collaborate on web development projects 
 - 📫 How to reach me ... mail at techandmecns@gmail.com or connect on linkedin www.linkedin.com/in/arka-dey-cns
 
 <!---
